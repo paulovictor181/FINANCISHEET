@@ -1,2 +1,0 @@
-# FINANCISHEET
- Projeto de ProgComp
